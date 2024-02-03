@@ -16,6 +16,8 @@ fun main(){
 
     println("El index de uva es: ${fruitList.indexOf("uva")}")
 
+    newTopic("Mutable List")
+
 
 
 }
